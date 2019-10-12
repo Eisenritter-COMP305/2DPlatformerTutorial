@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 675bc435ec387b74b85e2c193ce62060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3283728061913803992
+    second: Wave_0
+  - first:
+      213: -8492855265564123367
+    second: Wave_1
+  - first:
+      213: 2381565514505258138
+    second: Wave_2
+  - first:
+      213: 8222420645925065664
+    second: Brick_0
+  - first:
+      213: -1347532211411968617
+    second: Grass_0
+  - first:
+      213: -4368442228607660126
+    second: Brick_Grass_0
+  - first:
+      213: 1180218034697511613
+    second: Brick_1
+  - first:
+      213: -7645372005702169758
+    second: Grass_1
+  - first:
+      213: 2132084096037698973
+    second: Brick_Grass_1
+  - first:
+      213: -8275502208090371910
+    second: Dirt_0
+  - first:
+      213: 1412778643854539469
+    second: Dirt_1
+  - first:
+      213: 4163744674370200601
+    second: Ice
+  - first:
+      213: -1337644786321598930
+    second: Dirt_Crack_0
+  - first:
+      213: -5409071240697394290
+    second: Dirt_Crack_1
+  - first:
+      213: 6106740496235502331
+    second: Crate
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wave_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4d7b7cc8485a94399daa124944e360
+      internalID: 3283728061913803992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 784.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75822282067a25941a8b166599d88642
+      internalID: -8492855265564123367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 784.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad1a9371008c544a632e1ceb08dda1
+      internalID: 2381565514505258138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49279df765719174892106219a892794
+      internalID: 8222420645925065664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_0
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 588.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc09d541ff28ca4eafed41e1280fb2a
+      internalID: -1347532211411968617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick_Grass_0
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 588.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c61a6a28ad93748976c463d4057a8a
+      internalID: -4368442228607660126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770d8e44b50b06348a9cb03614a7aab2
+      internalID: 1180218034697511613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 392.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e69cd29d254c44a929602868e8a72
+      internalID: -7645372005702169758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick_Grass_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e047e67518ef2046a71c9a07938f374
+      internalID: 2132084096037698973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcec0431024f774e8806e07537f7c95
+      internalID: -8275502208090371910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70720adae667e52469af0137c68796c5
+      internalID: 1412778643854539469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196.8
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cb590626adcc34f8322c182a99291d
+      internalID: 4163744674370200601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt_Crack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.80000305
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c10b6666cd5214e91918804a4fe712
+      internalID: -1337644786321598930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt_Crack_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0.80000305
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018d456da171514a80a4673a08ba569
+      internalID: -5409071240697394290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0.80000305
+        width: 196
+        height: 196.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cf37adb29b5334fb070cc85fa08191
+      internalID: 6106740496235502331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
